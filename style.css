@@ -1,0 +1,35 @@
+.bg-orange{
+    background-image: linear-gradient(orangered,darkorange);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#content{
+    display:inline;
+}
+/* a{ */
+    /* text-decoration: none;
+    color:white; */
+    
+    /* display: inline-block;
+    border-radius: 50px;
+    background-color: orange;
+    color: white;
+    transition: border 0.2s ease; */
+/* } */
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    /* background-color:white;
+    color:orange;
+    border-radius: 50px; */
+    /* background-color : darkorange;k */
+    cursor: pointer;
+    color: white;
+}
+
+body, html{
+    height:100%;
+}
